@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./todos.component.css']
 })
 export class TodosComponent implements OnInit {
-  todos:Todo[];
+  // todos:Todo[];
 
   constructor() { }
 
